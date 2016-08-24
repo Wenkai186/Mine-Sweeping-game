@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Mine\MineSweeping\MineSweeping\bin\Debug\MineSweeping.exe
+C:\Users\lenovo\Desktop\Mine\MineSweeping\MineSweeping\bin\Debug\MineSweeping.pdb
+C:\Users\lenovo\Desktop\Mine\MineSweeping\MineSweeping\obj\Debug\MineSweeping.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Mine\MineSweeping\MineSweeping\obj\Debug\MineSweeping.GameForm.resources
+C:\Users\lenovo\Desktop\Mine\MineSweeping\MineSweeping\obj\Debug\MineSweeping.Grid.resources
+C:\Users\lenovo\Desktop\Mine\MineSweeping\MineSweeping\obj\Debug\MineSweeping.GridPanel.resources
+C:\Users\lenovo\Desktop\Mine\MineSweeping\MineSweeping\obj\Debug\MineSweeping.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Mine\MineSweeping\MineSweeping\obj\Debug\MineSweeping.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Mine\MineSweeping\MineSweeping\obj\Debug\MineSweeping.exe
+C:\Users\lenovo\Desktop\Mine\MineSweeping\MineSweeping\obj\Debug\MineSweeping.pdb
